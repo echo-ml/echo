@@ -1,0 +1,33 @@
+[submodule "modules/core"]
+	path = modules/core
+	url = https://github.com/echo-ml/core
+[submodule "modules/concept"]
+	path = modules/concept
+	url = https://github.com/echo-ml/concept
+[submodule "modules/memory"]
+	path = modules/memory
+	url = https://github.com/echo-ml/memory
+[submodule "modules/utility"]
+	path = modules/utility
+	url = https://github.com/echo-ml/utility
+[submodule "modules/k_array"]
+	path = modules/k_array
+	url = https://github.com/echo-ml/k_array
+[submodule "modules/htl"]
+	path = modules/htl
+	url = https://github.com/echo-ml/htl
+[submodule "modules/execution_context"]
+	path = modules/execution_context
+	url = https://github.com/echo-ml/execution_context
+[submodule "modules/expression_template"]
+	path = modules/expression_template
+	url = https://github.com/echo-ml/expression_template
+[submodule "modules/numeric_array"]
+	path = modules/numeric_array
+	url = https://github.com/echo-ml/numeric_array
+[submodule "modules/linear_algebra"]
+	path = modules/linear_algebra
+	url = https://github.com/echo-ml/linear_algebra
+[submodule "modules/tools"]
+	path = modules/tools
+	url = https://github.com/echo-ml/tools
